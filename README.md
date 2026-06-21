@@ -1,9 +1,9 @@
-# Stone, Paper, Scissors Game 🪨 📄 ✂️
+# Rock, Paper, Scissors Game 🪨 📄 ✂️
 
 A sleek, responsive, and interactive web-based implementation of the classic Rock, Paper, Scissors game. Built entirely with vanilla web technologies, this project provides a clean user interface and a smooth gameplay experience against a randomized computer opponent.
 
 ## 🚀 Live Demo
-You can play the game live here: [Live Demo](https://trivedh123.github.io/stone-paper-scissors/)
+You can play the game live here: [Live Demo](https://trivedh123.github.io/rock-paper-scissors/)
 
 ## ✨ Features
 * **Interactive UI:** Smooth transitions and clear visual feedback for user selections.
@@ -20,10 +20,10 @@ You can play the game live here: [Live Demo](https://trivedh123.github.io/stone-
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Trivedh123/stone-paper-scissors.git](https://github.com/Trivedh123/stone-paper-scissors.git)
+   git clone https://trivedh123.github.io/rock-paper-scissors/
 
 2. Navigate to the project directory:
    ```bash
-   cd stone-paper-scissors
+   cd rock-paper-scissors
 
 3. Open index.html in your favorite web browser, or run it via a local server (like Live Server in VS Code).
